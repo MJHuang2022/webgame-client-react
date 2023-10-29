@@ -1,0 +1,20 @@
+.signin {
+  background-color: #99eee1 !important;
+  color: white !important;
+  padding-left: 25px !important;
+  margin-right: 10px !important;
+  width: 110px !important;
+  z-index: -1!important;
+}
+
+.signup {
+  background-color: #04aa6d !important;
+  margin-right: -25px !important;
+  color: white !important;
+  z-index: 1!important;
+  width: 110px !important;
+}
+
+.link-button {
+  text-decoration: none;
+}
